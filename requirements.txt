@@ -1,0 +1,12 @@
+numpy
+librosa
+sounddevice
+tensorflow
+scikit-learn
+joblib
+keras
+pandas
+jupyter
+notebook
+tqdm
+opencv-contrib-python
